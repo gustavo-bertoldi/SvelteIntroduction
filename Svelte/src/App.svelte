@@ -5,6 +5,7 @@
 
 <main>
   <div class="main-container">
+    <img src="svelte.png" alt="Svelte logo">
     <h1>Svelte demo</h1>
     <hr>
     <Counter />
@@ -25,7 +26,7 @@
     margin: 30px 0px;
   }
 
-  h1 {
-    text-align: center;
+  img {
+    height: 75px;
   }
 </style>
