@@ -1,5 +1,6 @@
 <script>
-  import { onMount } from "svelte";
+  // @ts-ignore
+import { onMount } from "svelte";
 
   let movies = [];
   let currentMovie = "";
