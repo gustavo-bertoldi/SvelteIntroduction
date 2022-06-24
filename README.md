@@ -10,3 +10,12 @@ npm run dev
 ```
 
 To run the vanilla JavaScript version, simply open the `index.html` file using a web browser.
+
+
+## Creating a new Svelte app
+```bash
+npm init vite my-app -- --template svelte
+cd my-app
+npm install
+npm run dev
+```
